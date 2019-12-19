@@ -1,0 +1,66 @@
+{
+    "name": "Altos Data Geeks",
+    "description": "We track 100 million properties across the U.S. so you (and your clients) can stay ahead of the curve.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10159-altos-data-geeks.jpg",
+    "tags": [
+        "agencies",
+        "data",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/altos-data-geeks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Altos Data Geeks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10159-altos-data-geeks.jpg",
+            "humanURL": "http:\/\/www.altosresearch.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/altos-data-geeks-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.altosresearch.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/altos"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/altos-research"
+        },
+        {
+            "type": "Email",
+            "url": "info@altosresearch.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@altosresearch.com"
+        },
+        {
+            "type": "Email",
+            "url": "Mike@altosresearch.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/altosresearch"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.altosresearch.com\/"
+        }
+    ]
+}
